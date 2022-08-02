@@ -1,4 +1,3 @@
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1,Akademia Bialska Nauk Stosowanych im. Jana Pawła II,ekonomia i finanse,B+
 2,Akademia Bialska Nauk Stosowanych im. Jana Pawła II,nauki o zdrowiu,B+
 3,Akademia Ekonomiczno-Humanistyczna w Warszawie,ekonomia i finanse,B+
@@ -26,7 +25,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 25,"Akademia Górniczo-Hutnicza im. Stanisława Staszica wKrakowie",nauki o zarządzaniu i jakości,B+
 26,"Akademia Górniczo-Hutnicza im. Stanisława Staszica wKrakowie",nauki o Ziemi i środowisku,A
 27,"Akademia Górniczo-Hutnicza im. Stanisława Staszica wKrakowie",nauki socjologiczne,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 29,Akademia Humanistyczno-Ekonomiczna w Łodzi,"sztuki plastyczne i konserwacja dziełsztuki",C
 30,Akademia Ignatianum w Krakowie,filozofia,A
 31,Akademia Ignatianum w Krakowie,nauki o kulturze i religii,A
@@ -57,7 +55,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 56,Akademia Muzyczna im. Karola Szymanowskiego w Katowicach,sztuki muzyczne,B+
 57,Akademia Muzyczna im. Krzysztofa Pendereckiego w Krakowie,sztuki muzyczne,B+
 58,Akademia Muzyczna im. Stanisława Moniuszki w Gdańsku,sztuki muzyczne,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 60,Akademia Nauk Stosowanych w Łomży,nauki prawne,B+
 61,Akademia Nauk Stosowanych w Tarnowie,"automatyka, elektronika ielektrotechnika",B
 62,Akademia Nauk Stosowanych w Tarnowie,"sztuki plastyczne i konserwacja dziełsztuki",A
@@ -88,7 +85,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 87,Akademia Sztuki Wojennej,historia,B
 88,Akademia Sztuki Wojennej,nauki o bezpieczeństwie,A+
 89,Akademia Sztuki Wojennej,nauki o zarządzaniu i jakości,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 91,Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie,nauki o sztuce,B
 92,Akademia Teatralna im. Aleksandra Zelwerowicza w Warszawie,sztuki filmowe i teatralne,A+
 93,Akademia Techniczno-Humanistyczna w Bielsku-Białej,"informatyka techniczna itelekomunikacja",B
@@ -119,7 +115,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 118,"Centralny Instytut Ochrony Pracy - Państwowy InstytutBadawczy","inżynieria środowiska, górnictwo ienergetyka",A
 119,"Centrum Astronomiczne im. Mikołaja Kopernika PolskiejAkademii Nauk",astronomia,A+
 120,Centrum Badań i Innowacji Pro-Akademia,"inżynieria środowiska, górnictwo ienergetyka",B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 122,Centrum Badań Kosmicznych Polskiej Akademii Nauk,astronomia,B
 123,Centrum Badań Kosmicznych Polskiej Akademii Nauk,"automatyka, elektronika ielektrotechnika",B+
 124,Centrum Badań Kosmicznych Polskiej Akademii Nauk,nauki o Ziemi i środowisku,B+
@@ -150,7 +145,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 149,Federacja Naukowa WSB-DSW,pedagogika,A
 150,Fundacja Badań i Rozwoju Nauki,nauki medyczne,B
 151,Gdański Uniwersytet Medyczny,nauki farmaceutyczne,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 153,Gdański Uniwersytet Medyczny,nauki o zdrowiu,B+
 154,Główny Instytut Górnictwa,"inżynieria środowiska, górnictwo ienergetyka",A
 155,"Górnośląska Wyższa Szkoła Handlowa im. WojciechaKorfantego w Katowicach",nauki o zarządzaniu i jakości,B
@@ -181,7 +175,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 180,Instytut Chemii Bioorganicznej Polskiej Akademii Nauk,nauki biologiczne,A+
 181,Instytut Chemii Bioorganicznej Polskiej Akademii Nauk,nauki chemiczne,A
 182,Instytut Chemii Fizycznej Polskiej Akademii Nauk,nauki chemiczne,A+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 184,Instytut Chemii Organicznej Polskiej Akademii Nauk,nauki chemiczne,A+
 185,Instytut Dendrologii Polskiej Akademii Nauk,nauki biologiczne,A
 186,Instytut Dendrologii Polskiej Akademii Nauk,nauki leśne,A+
@@ -212,75 +205,73 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 211,"Instytut Gospodarki Surowcami Mineralnymi i Energią PolskiejAkademii Nauk","inżynieria środowiska, górnictwo ienergetyka",A
 212,Instytut Gruźlicy i Chorób Płuc,nauki medyczne,A
 213,Instytut Hematologii i Transfuzjologii,nauki medyczne,A
-Lp.,Nazwa Podmiotu,Dyscyplina,,Kategoria naukowa
-"",Instytut Historii Nauki imienia Ludwika i Aleksandra,,,
-215,historia,,,B+
-"",Birkenmajerów Polskiej Akademii Nauk,,,
-"",Instytut Hodowli i Aklimatyzacji Roślin - Państwowy Instytut,,,
-216,rolnictwo i ogrodnictwo,,,B+
-"",Badawczy,,,
-"",Instytut Immunologii i Terapii Doświadczalnej im. Ludwika,,,
-217,nauki biologiczne,,,A
-"",Hirszfelda Polskiej Akademii Nauk,,,
-"",Instytut Immunologii i Terapii Doświadczalnej im. Ludwika,,,
-218,nauki medyczne,,,A+
-"",Hirszfelda Polskiej Akademii Nauk,,,
-"",Instytut Informatyki Teoretycznej i Stosowanej Polskiej Akademii informatyka techniczna i,,,
-219,,,,A
-"",Nauk telekomunikacja,,,
-220,Instytut Inżynierii Chemicznej Polskiej Akademii Nauk inżynieria chemiczna,,,B+
-221,Instytut Języka Polskiego Polskiej Akademii Nauk językoznawstwo,,,A
-"",Instytut Katalizy i Fizykochemii Powierzchni im. Jerzego Habera,,,
-222,nauki chemiczne,,,B+
-"",Polskiej Akademii Nauk,,,
-223,Instytut Kolejnictwa inżynieria lądowa i transport,,,C
-"",Instytut Kultur Śródziemnomorskich i Orientalnych Polskiej,,,
-224,archeologia,,,B+
-"",Akademii Nauk,,,
-"",Instytut Kultur Śródziemnomorskich i Orientalnych Polskiej,,,
-225,nauki o kulturze i religii,,,B+
-"",Akademii Nauk,,,
-"",informatyka techniczna i,,,
-226,Instytut Łączności - Państwowy Instytut Badawczy,,,B+
-"",telekomunikacja,,,
-"",Instytut Maszyn Przepływowych im. Roberta Szewalskiego,,,
-227,inżynieria mechaniczna,,,A
-"",Polskiej Akademii Nauk,,,
-228,Instytut Matematyczny Polskiej Akademii Nauk matematyka,,,A+
-229,Instytut Matki i Dziecka nauki medyczne,,,A
-"","inżynieria środowiska, górnictwo i",,,
-230,Instytut Mechaniki Górotworu Polskiej Akademii Nauk,,,A
-"",energetyka,,,
-"",Instytut Medycyny Doświadczalnej i Klinicznej im. Mirosława,,,
-231,nauki medyczne,,,A
-"",Mossakowskiego Polskiej Akademii Nauk,,,
-232,Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera nauki o zdrowiu,,,A
-233,Instytut Medycyny Wsi im. Witolda Chodźki nauki medyczne,,,A
-234,Instytut Medycyny Wsi im. Witolda Chodźki nauki o zdrowiu,,,B+
-"",Instytut Metalurgii i Inżynierii Materiałowej im. Aleksandra,,,
-235,inżynieria materiałowa,,,B+
-"",Krupkowskiego Polskiej Akademii Nauk,,,
-"","Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut inżynieria środowiska, górnictwo i",,,
-236,,,,B+
-"",Badawczy energetyka,,,
-"",Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut,,,
-237,nauki o Ziemi i środowisku,,,B+
-"",Badawczy,,,
-"","inżynieria środowiska, górnictwo i",,,
-238,Instytut Nafty i Gazu - Państwowy Instytut Badawczy,,,B+
-"",energetyka,,,
-239,Instytut Nauk Ekonomicznych Polskiej Akademii Nauk ekonomia i finanse,,,B+
-240,Instytut Nauk Geologicznych Polskiej Akademii Nauk nauki o Ziemi i środowisku,,,A
-241,Instytut Nauk Prawnych Polskiej Akademii Nauk nauki prawne,,,B+
-"",Instytut Niskich Temperatur i Badań Strukturalnych im.,,,
-242,nauki chemiczne,,,A
-"",Włodzimierza Trzebiatowskiego Polskiej Akademii Nauk,,,
-"",Instytut Niskich Temperatur i Badań Strukturalnych im.,,,
-243,nauki fizyczne,,,A
-"",Włodzimierza Trzebiatowskiego Polskiej Akademii Nauk,,,
-244,Instytut Oceanologii Polskiej Akademii Nauk nauki o Ziemi i środowisku,,,A
-245,Instytut Ochrony Przyrody Polskiej Akademii Nauk nauki biologiczne,,,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
+"",Instytut Historii Nauki imienia Ludwika i Aleksandra,,
+215,historia,,B+
+"",Birkenmajerów Polskiej Akademii Nauk,,
+"",Instytut Hodowli i Aklimatyzacji Roślin - Państwowy Instytut,,
+216,rolnictwo i ogrodnictwo,,B+
+"",Badawczy,,
+"",Instytut Immunologii i Terapii Doświadczalnej im. Ludwika,,
+217,nauki biologiczne,,A
+"",Hirszfelda Polskiej Akademii Nauk,,
+"",Instytut Immunologii i Terapii Doświadczalnej im. Ludwika,,
+218,nauki medyczne,,A+
+"",Hirszfelda Polskiej Akademii Nauk,,
+"",Instytut Informatyki Teoretycznej i Stosowanej Polskiej Akademii informatyka techniczna i,,
+219,,,A
+"",Nauk telekomunikacja,,
+220,Instytut Inżynierii Chemicznej Polskiej Akademii Nauk inżynieria chemiczna,,B+
+221,Instytut Języka Polskiego Polskiej Akademii Nauk językoznawstwo,,A
+"",Instytut Katalizy i Fizykochemii Powierzchni im. Jerzego Habera,,
+222,nauki chemiczne,,B+
+"",Polskiej Akademii Nauk,,
+223,Instytut Kolejnictwa inżynieria lądowa i transport,,C
+"",Instytut Kultur Śródziemnomorskich i Orientalnych Polskiej,,
+224,archeologia,,B+
+"",Akademii Nauk,,
+"",Instytut Kultur Śródziemnomorskich i Orientalnych Polskiej,,
+225,nauki o kulturze i religii,,B+
+"",Akademii Nauk,,
+"",informatyka techniczna i,,
+226,Instytut Łączności - Państwowy Instytut Badawczy,,B+
+"",telekomunikacja,,
+"",Instytut Maszyn Przepływowych im. Roberta Szewalskiego,,
+227,inżynieria mechaniczna,,A
+"",Polskiej Akademii Nauk,,
+228,Instytut Matematyczny Polskiej Akademii Nauk matematyka,,A+
+229,Instytut Matki i Dziecka nauki medyczne,,A
+"","inżynieria środowiska, górnictwo i",,
+230,Instytut Mechaniki Górotworu Polskiej Akademii Nauk,,A
+"",energetyka,,
+"",Instytut Medycyny Doświadczalnej i Klinicznej im. Mirosława,,
+231,nauki medyczne,,A
+"",Mossakowskiego Polskiej Akademii Nauk,,
+232,Instytut Medycyny Pracy im. prof. dr. med. Jerzego Nofera nauki o zdrowiu,,A
+233,Instytut Medycyny Wsi im. Witolda Chodźki nauki medyczne,,A
+234,Instytut Medycyny Wsi im. Witolda Chodźki nauki o zdrowiu,,B+
+"",Instytut Metalurgii i Inżynierii Materiałowej im. Aleksandra,,
+235,inżynieria materiałowa,,B+
+"",Krupkowskiego Polskiej Akademii Nauk,,
+"","Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut inżynieria środowiska, górnictwo i",,
+236,,,B+
+"",Badawczy energetyka,,
+"",Instytut Meteorologii i Gospodarki Wodnej - Państwowy Instytut,,
+237,nauki o Ziemi i środowisku,,B+
+"",Badawczy,,
+"","inżynieria środowiska, górnictwo i",,
+238,Instytut Nafty i Gazu - Państwowy Instytut Badawczy,,B+
+"",energetyka,,
+239,Instytut Nauk Ekonomicznych Polskiej Akademii Nauk ekonomia i finanse,,B+
+240,Instytut Nauk Geologicznych Polskiej Akademii Nauk nauki o Ziemi i środowisku,,A
+241,Instytut Nauk Prawnych Polskiej Akademii Nauk nauki prawne,,B+
+"",Instytut Niskich Temperatur i Badań Strukturalnych im.,,
+242,nauki chemiczne,,A
+"",Włodzimierza Trzebiatowskiego Polskiej Akademii Nauk,,
+"",Instytut Niskich Temperatur i Badań Strukturalnych im.,,
+243,nauki fizyczne,,A
+"",Włodzimierza Trzebiatowskiego Polskiej Akademii Nauk,,
+244,Instytut Oceanologii Polskiej Akademii Nauk nauki o Ziemi i środowisku,,A
+245,Instytut Ochrony Przyrody Polskiej Akademii Nauk nauki biologiczne,,B+
 246,Instytut Ochrony Roślin - Państwowy Instytut Badawczy,rolnictwo i ogrodnictwo,A
 247,Instytut Ochrony Środowiska - Państwowy Instytut Badawczy,"inżynieria środowiska, górnictwo ienergetyka",A
 248,Instytut Ogrodnictwa - Państwowy Instytut Badawczy,rolnictwo i ogrodnictwo,B+
@@ -311,7 +302,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 273,Instytut Systematyki i Ewolucji Zwierząt Polskiej Akademii Nauk,nauki biologiczne,B+
 274,Instytut Sztuki Polskiej Akademii Nauk,nauki o sztuce,A+
 275,"Instytut Środowiska Rolniczego i Leśnego Polskiej AkademiiNauk",rolnictwo i ogrodnictwo,C
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 277,Instytut Techniki Budowlanej,inżynieria lądowa i transport,A
 278,Instytut Techniki Górniczej KOMAG,"automatyka, elektronika ielektrotechnika",A
 279,Instytut Techniki Górniczej KOMAG,inżynieria mechaniczna,A
@@ -342,7 +332,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 304,Katolicki Uniwersytet Lubelski Jana Pawła II w Lublinie,prawo kanoniczne,A+
 305,Katolicki Uniwersytet Lubelski Jana Pawła II w Lublinie,psychologia,B+
 306,Kolegium Jagiellońskie – Toruńska Szkoła Wyższa,nauki o polityce i administracji,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 308,"Krakowska Akademia im. Andrzeja Frycza Modrzewskiego wKrakowie",architektura i urbanistyka,B+
 309,"Krakowska Akademia im. Andrzeja Frycza Modrzewskiego wKrakowie",nauki medyczne,B+
 310,"Krakowska Akademia im. Andrzeja Frycza Modrzewskiego wKrakowie",nauki o bezpieczeństwie,C
@@ -373,7 +362,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 335,Narodowy Instytut Leków,nauki farmaceutyczne,B+
 336,Narodowy Instytut Leków,nauki medyczne,A
 337,"Narodowy Instytut Onkologii im. Marii Skłodowskiej-Curie –Państwowy Instytut Badawczy",nauki medyczne,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 339,"Naukowa i Akademicka Sieć Komputerowa - PaństwowyInstytut Badawczy","informatyka techniczna itelekomunikacja",A
 340,"Ośrodek Przetwarzania Informacji — Państwowy InstytutBadawczy","informatyka techniczna itelekomunikacja",B+
 341,"Ośrodek Przetwarzania Informacji — Państwowy InstytutBadawczy",nauki socjologiczne,A
@@ -404,7 +392,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 366,Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich,"sztuki plastyczne i konserwacja dziełsztuki",B+
 367,Politechnika Bydgoska im. Jana i Jędrzeja Śniadeckich,zootechnika i rybactwo,A
 368,Politechnika Częstochowska,"automatyka, elektronika ielektrotechnika",B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 370,Politechnika Częstochowska,inżynieria lądowa i transport,B
 371,Politechnika Częstochowska,inżynieria materiałowa,B+
 372,Politechnika Częstochowska,inżynieria mechaniczna,B+
@@ -435,7 +422,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 397,Politechnika Krakowska im. Tadeusza Kościuszki,"informatyka techniczna itelekomunikacja",B+
 398,Politechnika Krakowska im. Tadeusza Kościuszki,inżynieria chemiczna,A
 399,Politechnika Krakowska im. Tadeusza Kościuszki,inżynieria lądowa i transport,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 401,Politechnika Krakowska im. Tadeusza Kościuszki,inżynieria mechaniczna,A
 402,Politechnika Krakowska im. Tadeusza Kościuszki,"inżynieria środowiska, górnictwo ienergetyka",A
 403,Politechnika Lubelska,architektura i urbanistyka,B+
@@ -466,7 +452,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 428,Politechnika Opolska,"inżynieria środowiska, górnictwo ienergetyka",A
 429,Politechnika Opolska,nauki o kulturze fizycznej,B+
 430,Politechnika Opolska,nauki o zarządzaniu i jakości,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 432,Politechnika Poznańska,architektura i urbanistyka,B+
 433,Politechnika Poznańska,"automatyka, elektronika ielektrotechnika",A
 434,Politechnika Poznańska,"informatyka techniczna itelekomunikacja",B+
@@ -497,7 +482,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 459,Politechnika Śląska,inżynieria lądowa i transport,A
 460,Politechnika Śląska,inżynieria materiałowa,B+
 461,Politechnika Śląska,inżynieria mechaniczna,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 463,Politechnika Śląska,nauki chemiczne,A
 464,Politechnika Śląska,nauki o zarządzaniu i jakości,B+
 465,Politechnika Śląska,nauki o Ziemi i środowisku,A
@@ -528,7 +512,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 490,Politechnika Wrocławska,inżynieria chemiczna,A
 491,Politechnika Wrocławska,inżynieria lądowa i transport,B+
 492,Politechnika Wrocławska,inżynieria materiałowa,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 494,Politechnika Wrocławska,"inżynieria środowiska, górnictwo ienergetyka",B+
 495,Politechnika Wrocławska,matematyka,A+
 496,Politechnika Wrocławska,nauki chemiczne,A
@@ -559,7 +542,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 521,Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,nauki biologiczne,B+
 522,Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,nauki leśne,B+
 523,Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,nauki o zarządzaniu i jakości,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 525,Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,pedagogika,B+
 526,Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,rolnictwo i ogrodnictwo,B+
 527,Szkoła Główna Gospodarstwa Wiejskiego w Warszawie,technologia żywności i żywienia,B+
@@ -590,7 +572,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 552,Uniwersytet Ekonomiczny w Krakowie,nauki o zarządzaniu i jakości,B+
 553,Uniwersytet Ekonomiczny w Krakowie,nauki prawne,B+
 554,Uniwersytet Ekonomiczny w Poznaniu,ekonomia i finanse,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 556,Uniwersytet Ekonomiczny we Wrocławiu,ekonomia i finanse,B+
 557,Uniwersytet Ekonomiczny we Wrocławiu,nauki o zarządzaniu i jakości,B+
 558,Uniwersytet Ekonomiczny we Wrocławiu,technologia żywności i żywienia,B
@@ -621,7 +602,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 583,"Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza wCzęstochowie",literaturoznawstwo,A
 584,"Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza wCzęstochowie",nauki chemiczne,A
 585,"Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza wCzęstochowie",nauki fizyczne,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 587,"Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza wCzęstochowie",nauki o kulturze fizycznej,B+
 588,"Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza wCzęstochowie",nauki o zdrowiu,B+
 589,"Uniwersytet Humanistyczno-Przyrodniczy im. Jana Długosza wCzęstochowie",nauki prawne,A
@@ -652,7 +632,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 614,Uniwersytet im. Adama Mickiewicza w Poznaniu,pedagogika,B+
 615,Uniwersytet im. Adama Mickiewicza w Poznaniu,psychologia,B+
 616,Uniwersytet Jagielloński w Krakowie,archeologia,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 618,Uniwersytet Jagielloński w Krakowie,ekonomia i finanse,B+
 619,Uniwersytet Jagielloński w Krakowie,filozofia,A
 620,Uniwersytet Jagielloński w Krakowie,"geografia społeczno-ekonomiczna igospodarka przestrzenna",A
@@ -683,7 +662,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 645,Uniwersytet Jana Kochanowskiego w Kielcach,"geografia społeczno-ekonomiczna igospodarka przestrzenna",B
 646,Uniwersytet Jana Kochanowskiego w Kielcach,historia,B+
 647,Uniwersytet Jana Kochanowskiego w Kielcach,językoznawstwo,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 649,Uniwersytet Jana Kochanowskiego w Kielcach,matematyka,B
 650,Uniwersytet Jana Kochanowskiego w Kielcach,nauki biologiczne,B
 651,Uniwersytet Jana Kochanowskiego w Kielcach,nauki chemiczne,A
@@ -714,7 +692,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 676,Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie,"nauki o komunikacji społecznej imediach",B
 677,Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie,nauki o kulturze i religii,B+
 678,Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie,nauki o polityce i administracji,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 680,Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie,nauki prawne,B+
 681,Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie,nauki socjologiczne,B+
 682,Uniwersytet Kardynała Stefana Wyszyńskiego w Warszawie,nauki teologiczne,A
@@ -745,7 +722,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 707,Uniwersytet Łódzki,filozofia,A
 708,Uniwersytet Łódzki,"geografia społeczno-ekonomiczna igospodarka przestrzenna",B
 709,Uniwersytet Łódzki,historia,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 711,Uniwersytet Łódzki,językoznawstwo,A
 712,Uniwersytet Łódzki,literaturoznawstwo,B+
 713,Uniwersytet Łódzki,matematyka,B+
@@ -776,7 +752,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 738,Uniwersytet Marii Curie-Skłodowskiej w Lublinie,nauki fizyczne,A
 739,Uniwersytet Marii Curie-Skłodowskiej w Lublinie,"nauki o komunikacji społecznej imediach",A
 740,Uniwersytet Marii Curie-Skłodowskiej w Lublinie,nauki o kulturze i religii,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 742,Uniwersytet Marii Curie-Skłodowskiej w Lublinie,nauki o zarządzaniu i jakości,B+
 743,Uniwersytet Marii Curie-Skłodowskiej w Lublinie,nauki o Ziemi i środowisku,B+
 744,Uniwersytet Marii Curie-Skłodowskiej w Lublinie,nauki prawne,A
@@ -807,7 +782,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 769,Uniwersytet Mikołaja Kopernika w Toruniu,"geografia społeczno-ekonomiczna igospodarka przestrzenna",B+
 770,Uniwersytet Mikołaja Kopernika w Toruniu,historia,A
 771,Uniwersytet Mikołaja Kopernika w Toruniu,językoznawstwo,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 773,Uniwersytet Mikołaja Kopernika w Toruniu,matematyka,A
 774,Uniwersytet Mikołaja Kopernika w Toruniu,nauki biologiczne,B+
 775,Uniwersytet Mikołaja Kopernika w Toruniu,nauki chemiczne,B+
@@ -838,7 +812,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 800,Uniwersytet Opolski,ekonomia i finanse,B+
 801,Uniwersytet Opolski,historia,B+
 802,Uniwersytet Opolski,informatyka,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 804,Uniwersytet Opolski,językoznawstwo,A
 805,Uniwersytet Opolski,literaturoznawstwo,A
 806,Uniwersytet Opolski,nauki biologiczne,B+
@@ -869,7 +842,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 831,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej wKrakowie",literaturoznawstwo,B+
 832,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej wKrakowie",matematyka,B+
 833,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej wKrakowie",nauki biologiczne,B
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 835,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej wKrakowie",nauki o bezpieczeństwie,B+
 836,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej wKrakowie","nauki o komunikacji społecznej imediach",B+
 837,"Uniwersytet Pedagogiczny im. Komisji Edukacji Narodowej wKrakowie",nauki o polityce i administracji,B+
@@ -900,7 +872,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 862,Uniwersytet Przyrodniczy w Lublinie,rolnictwo i ogrodnictwo,B+
 863,Uniwersytet Przyrodniczy w Lublinie,technologia żywności i żywienia,B+
 864,Uniwersytet Przyrodniczy w Lublinie,weterynaria,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 866,Uniwersytet Przyrodniczy w Poznaniu,ekonomia i finanse,B+
 867,Uniwersytet Przyrodniczy w Poznaniu,inżynieria mechaniczna,B+
 868,Uniwersytet Przyrodniczy w Poznaniu,"inżynieria środowiska, górnictwo ienergetyka",B
@@ -931,7 +902,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 893,Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie,weterynaria,B+
 894,Uniwersytet Rolniczy im. Hugona Kołłątaja w Krakowie,zootechnika i rybactwo,A
 895,Uniwersytet Rzeszowski,archeologia,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 897,Uniwersytet Rzeszowski,filozofia,A
 898,Uniwersytet Rzeszowski,historia,B+
 899,Uniwersytet Rzeszowski,"informatyka techniczna itelekomunikacja",A
@@ -962,7 +932,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 924,Uniwersytet Szczeciński,nauki biologiczne,B+
 925,Uniwersytet Szczeciński,nauki fizyczne,A
 926,Uniwersytet Szczeciński,nauki o kulturze fizycznej,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 928,Uniwersytet Szczeciński,nauki o zarządzaniu i jakości,B+
 929,Uniwersytet Szczeciński,nauki o Ziemi i środowisku,B+
 930,Uniwersytet Szczeciński,nauki prawne,A
@@ -993,7 +962,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 955,Uniwersytet Śląski w Katowicach,pedagogika,B+
 956,Uniwersytet Śląski w Katowicach,psychologia,B+
 957,Uniwersytet Śląski w Katowicach,sztuki filmowe i teatralne,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 959,Uniwersytet Śląski w Katowicach,"sztuki plastyczne i konserwacja dziełsztuki",B
 960,"Uniwersytet Technologiczno-Humanistyczny im. KazimierzaPułaskiego w Radomiu","automatyka, elektronika ielektrotechnika",B+
 961,"Uniwersytet Technologiczno-Humanistyczny im. KazimierzaPułaskiego w Radomiu",ekonomia i finanse,B+
@@ -1024,7 +992,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 986,Uniwersytet Warmińsko-Mazurski w Olsztynie,"geografia społeczno-ekonomiczna igospodarka przestrzenna",A
 987,Uniwersytet Warmińsko-Mazurski w Olsztynie,historia,B+
 988,Uniwersytet Warmińsko-Mazurski w Olsztynie,inżynieria lądowa i transport,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 990,Uniwersytet Warmińsko-Mazurski w Olsztynie,"inżynieria środowiska, górnictwo ienergetyka",B+
 991,Uniwersytet Warmińsko-Mazurski w Olsztynie,językoznawstwo,A
 992,Uniwersytet Warmińsko-Mazurski w Olsztynie,literaturoznawstwo,B+
@@ -1055,7 +1022,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1017,Uniwersytet Warszawski,matematyka,A+
 1018,Uniwersytet Warszawski,nauki biologiczne,B+
 1019,Uniwersytet Warszawski,nauki chemiczne,A+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1021,Uniwersytet Warszawski,nauki o bezpieczeństwie,A+
 1022,Uniwersytet Warszawski,"nauki o komunikacji społecznej imediach",B+
 1023,Uniwersytet Warszawski,nauki o kulturze i religii,B+
@@ -1086,7 +1052,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1048,Uniwersytet Wrocławski,"nauki o komunikacji społecznej imediach",B+
 1049,Uniwersytet Wrocławski,nauki o kulturze i religii,B+
 1050,Uniwersytet Wrocławski,nauki o polityce i administracji,B+
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1052,Uniwersytet Wrocławski,nauki o Ziemi i środowisku,B+
 1053,Uniwersytet Wrocławski,nauki prawne,A
 1054,Uniwersytet Wrocławski,nauki socjologiczne,B+
@@ -1117,7 +1082,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1079,Uniwersytet Zielonogórski,"sztuki plastyczne i konserwacja dziełsztuki",B+
 1080,Warszawski Uniwersytet Medyczny,nauki farmaceutyczne,B+
 1081,Warszawski Uniwersytet Medyczny,nauki medyczne,A
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1083,Wielkopolskie Centrum Onkologii im. Marii Skłodowskiej-Curie,nauki medyczne,C
 1084,Wojewódzki Szpital Specjalistyczny we Wrocławiu,nauki medyczne,B+
 1085,Wojskowa Akademia Techniczna im. Jarosława Dąbrowskiego,"automatyka, elektronika ielektrotechnika",A
@@ -1148,7 +1112,6 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1110,Wyższa Szkoła Gospodarki w Bydgoszczy,nauki o zdrowiu,B
 1111,Wyższa Szkoła Gospodarki w Bydgoszczy,pedagogika,C
 1112,Wyższa Szkoła Humanitas w Sosnowcu,nauki o zarządzaniu i jakości,B
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1114,Wyższa Szkoła Humanitas w Sosnowcu,pedagogika,C
 1115,"Wyższa Szkoła Informatyki i Zarządzania z siedzibą wRzeszowie",ekonomia i finanse,B+
 1116,"Wyższa Szkoła Informatyki i Zarządzania z siedzibą wRzeszowie","informatyka techniczna itelekomunikacja",B
@@ -1179,5 +1142,4 @@ Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1141,Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,nauki chemiczne,B+
 1142,Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,rolnictwo i ogrodnictwo,A
 1143,Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,"sztuki plastyczne i konserwacja dziełsztuki",B
-Lp.,Nazwa Podmiotu,Dyscyplina,Kategoria naukowa
 1145,Zachodniopomorski Uniwersytet Technologiczny w Szczecinie,zootechnika i rybactwo,B+
